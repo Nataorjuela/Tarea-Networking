@@ -19,6 +19,7 @@ public class Server {
      * @throws IOException
      */
     public static String funcion="coseno";
+    public static String[] parte = null;
     public static void main(String[] args) throws IOException {
         ServerSocket serverSocket = null;
         try {
@@ -43,8 +44,19 @@ public class Server {
 
         while ((inputLine = in.readLine()) != null) {
             String resultado="calculando..";
+
             if (outputLine.equals("Respuesta de servidor: Bye."))
                 break;
+            else if(inputLine.contains("pi")){
+                Double pi=3.141592;
+                parte = inputLine.split("/");
+                String pos = "";
+                pos = parte[1];
+                Double a =Double.parseDouble(pos);
+                Double resultado2 = pi/a;
+                out.println(resultado2);
+
+            }
             else if(inputLine.contains(":")){
                 if(outputLine.equals("fun:sin" )){
                     funcion="seno";
