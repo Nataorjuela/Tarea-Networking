@@ -39,7 +39,7 @@ Escriba un servidor que reciba un n´umero y responda el cuadrado de este númer
 ____
 
 ## 4.3.2.
-Escriba un servidor que pueda recibir un n´umero y responda con un operaci´on sobre este n´umero. Este servidor puede recibir un mensaje que empiece por“fun:”, si recibe este mensaje cambia la operación a la especificada. El servidor debe responder las funciones seno, coseno y tangente. Por defecto debe empezar calculando el coseno. 
+Escriba un servidor que pueda recibir un número y responda con un operación sobre este número. Este servidor puede recibir un mensaje que empiece por “fun:”, si recibe este mensaje cambia la operación a la especificada. El servidor debe responder las funciones seno, coseno y tangente. Por defecto debe empezar calculando el coseno. 
 Por ejemplo, si el primer número que recibe es 0, debe responder 1, si después recibe π/2 debe responder 0, si luego recibe “fun:sin”
 debe cambiar la operaci´on actual a seno, es decir a a partir de ese momento debe calcular senos. Si enseguida recibe 0 debe responder 0.
 ____
