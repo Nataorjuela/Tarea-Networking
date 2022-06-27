@@ -46,3 +46,7 @@ debe cambiar la operaci´on actual a seno, es decir a partir de ese momento debe
 ![image](https://user-images.githubusercontent.com/54339107/176007324-e33cfcb4-ee27-4977-8035-ba4daa687d20.png)
 
 ____
+
+## 4.5. Ejercicios
+# 4.5.1.
+Escriba un servidor web que soporte múltiples solicitudes seguidas (no concurrentes). El servidor debe retornar todos los archivos solicitados, incluyendo páginas html e imágenes.
