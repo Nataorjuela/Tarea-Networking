@@ -42,4 +42,7 @@ ____
 Escriba un servidor que pueda recibir un número y responda con un operación sobre este número. Este servidor puede recibir un mensaje que empiece por “fun:”, si recibe este mensaje cambia la operación a la especificada. El servidor debe responder las funciones seno, coseno y tangente. Por defecto debe empezar calculando el coseno. 
 Por ejemplo, si el primer número que recibe es 0, debe responder 1, si después recibe π/2 debe responder 0, si luego recibe “fun:sin”
 debe cambiar la operaci´on actual a seno, es decir a partir de ese momento debe calcular senos. Si enseguida recibe 0 debe responder 0.
+
+![image](https://user-images.githubusercontent.com/54339107/176007324-e33cfcb4-ee27-4977-8035-ba4daa687d20.png)
+
 ____
