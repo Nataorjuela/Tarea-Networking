@@ -27,3 +27,9 @@ Se evidencia que se crea el archivo resultado en la carpeta HTML creada en el co
 ![image](https://user-images.githubusercontent.com/54339107/175838517-7772bdfc-fd2b-4a6d-a157-15c5c4add1e3.png)
 
 ____
+
+## 4.3.1
+
+Escriba un servidor que reciba un n´umero y responda el cuadrado de este número.
+
+![image](https://user-images.githubusercontent.com/54339107/175840145-5c7a8670-b9da-44e7-addf-9569c4aefe4e.png)
