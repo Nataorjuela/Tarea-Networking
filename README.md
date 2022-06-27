@@ -33,3 +33,6 @@ ____
 Escriba un servidor que reciba un n´umero y responda el cuadrado de este número.
 
 ![image](https://user-images.githubusercontent.com/54339107/175840145-5c7a8670-b9da-44e7-addf-9569c4aefe4e.png)
+
+![image](https://user-images.githubusercontent.com/54339107/175840343-626f75c7-6500-4a0e-92ab-a69007b59b4e.png)
+
