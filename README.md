@@ -51,5 +51,6 @@ ____
 
 # 4.5.1.
 Escriba un servidor web que soporte múltiples solicitudes seguidas (no concurrentes). El servidor debe retornar todos los archivos solicitados, incluyendo páginas html e imágenes.
+![image](https://user-images.githubusercontent.com/54339107/176266742-b0d00889-9bd0-4bbe-bea9-9649da6072f4.png)
 
 ____
